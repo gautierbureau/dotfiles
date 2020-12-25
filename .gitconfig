@@ -152,7 +152,5 @@
 # autosetuprebase = always
 [credential]
 	helper = cache
-[credential "https://devin-source.rte-france.com"]
-	username = R38580
 [credential "https://github.com"]
 	username = gautierbureau
